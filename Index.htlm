@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Derrick | Official Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #101020;
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      padding: 20px;
+      background: #191932;
+      color: #bd9aff;
+    }
+
+    .hero {
+      padding: 70px 15px;
+      background: linear-gradient(140deg, #30205f, #101020);
+    }
+
+    h1 {
+      font-size: 45px;
+    }
+
+    h1 span {
+      color: #bd9aff;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.7;
+      color: #dedbea;
+    }
+
+    .button {
+      display: inline-block;
+      margin: 20px;
+      padding: 15px 25px;
+      border-radius: 30px;
+      background: #a77bff;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 35px 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #bd9aff;
+    }
+
+    footer {
+      background: #191932;
+      padding: 25px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h2>DERRICK</h2>
+    <p>Official Creator Website 🇺🇬</p>
+  </header>
+
+  <div class="hero">
+    <h1>Hi, I'm <span>Derrick</span></h1>
+    <p>@nicy.drek</p>
+    <p>Dancer | TikTok Content Creator | Uganda</p>
+    <a class="button"
+       href="https://www.tiktok.com/@nicy.drek">
+       Follow Me on TikTok
+    </a>
+  </div>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      My name is Derrick, also known as @nicy.drek.
+      I am a TikTok content creator from Uganda
+      with a passion for dancing and creativity.
+    </p>
+  </section>
+
+  <section>
+    <h2>My Story</h2>
+    <p>
+      Dancing is my passion. Through TikTok,
+      I share my creativity and express myself.
+      I dream of becoming a famous content creator
+      and reaching people around the world.
+    </p>
+  </section>
+
+  <section>
+    <h2>My Dream</h2>
+    <p>
+      My goal is to grow my audience, improve
+      my content and become a recognised
+      content creator.
+    </p>
+    <a class="button"
+       href="https://www.tiktok.com/@nicy.drek">
+       Visit My TikTok
+    </a>
+  </section>
+
+  <footer>
+    <p>© 2026 Derrick | @nicy.drek</p>
+    <p>Made with passion in Uganda 🇺🇬</p>
+  </footer>
+
+</body>
+</html>
